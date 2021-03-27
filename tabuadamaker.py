@@ -3,7 +3,7 @@ import time
 res = 'S'
 while(res == 'S') | (res == 's'):
     print('===========================')
-    print('TABUADA GENERATOR')
+    print('TABUADA MAKER')
     print('===========================')
     cont = 1
     num = int(input('Digite o número desejado: '))
